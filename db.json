@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "aveng",
+      "url": "https://codersera.com/blog/wp-content/uploads/2019/10/nodejs-thumb.jpg",
+      "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU"
+    },
+    {
+      "id": "2",
+      "caption": "aveng",
+      "url": "https://codersera.com/blog/wp-content/uploads/2019/10/nodejs-thumb.jpg",
+      "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU"
+    },
+    {
+      "id": "3",
+      "caption": "aveng",
+      "url": "https://codersera.com/blog/wp-content/uploads/2019/10/nodejs-thumb.jpg",
+      "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU"
+    }
+  ],
+  "categories": [
+    {
+      "catagoryName": "frontend",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "aveng",
+          "url": "https://codersera.com/blog/wp-content/uploads/2019/10/nodejs-thumb.jpg",
+          "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU"
+        },
+        {
+          "id": "3",
+          "caption": "aveng",
+          "url": "https://codersera.com/blog/wp-content/uploads/2019/10/nodejs-thumb.jpg",
+          "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU"
+        },
+        {
+          "id": "2",
+          "caption": "aveng",
+          "url": "https://codersera.com/blog/wp-content/uploads/2019/10/nodejs-thumb.jpg",
+          "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU"
+        },
+        {
+          "id": "2",
+          "caption": "aveng",
+          "url": "https://codersera.com/blog/wp-content/uploads/2019/10/nodejs-thumb.jpg",
+          "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "caption": "aveng",
+      "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU",
+      "timeStamp": "02/09/2024, 12:03:02 AM",
+      "id": 1
+    },
+    {
+      "caption": "aveng",
+      "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU",
+      "timeStamp": "02/09/2024, 12:03:10 AM",
+      "id": 2
+    },
+    {
+      "caption": "aveng",
+      "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU",
+      "timeStamp": "02/09/2024, 12:03:43 AM",
+      "id": 3
+    },
+    {
+      "caption": "aveng",
+      "embedlink": "https://www.youtube.com/embed/ObTHnSLt2HU",
+      "timeStamp": "02/09/2024, 12:06:10 AM",
+      "id": 4
+    }
+  ]
+}
